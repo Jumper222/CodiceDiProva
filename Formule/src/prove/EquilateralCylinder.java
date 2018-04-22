@@ -12,25 +12,25 @@ public class EquilateralCylinder {
 		double radius = a.nextDouble();
 		
 		double basearea = 3.14 * (radius*radius);
-		String baseara = "Your base area is " + basearea + " cm²";
+		String baseara = "Your base area is " + basearea + " cmË›";
 		System.out.println(baseara);
 		// Base area formula calculator
 		
 		
 		double sidearea = 4 * 3.14 * (radius*radius);
-		String sideara = "Your side area is " + sidearea + " cm²";
+		String sideara = "Your side area is " + sidearea + " cmË›";
 		System.out.println(sideara);
-		// Side area formula claculator
+		// Side area formula calculator
 		
 		
 		double totalarea = 6 * 3.14 * (radius * radius);
-		String totArea = "Your total area is " + totalarea + " cm²";
+		String totArea = "Your total area is " + totalarea + " cmË›";
 		System.out.println(totArea);
 		// Total area formula calculator
 		
 		
 		double volume = 2 * 3.14 * (radius * radius * radius);
-		String vlm = "Your volume is " + volume + " cm³";
+		String vlm = "Your volume is " + volume + " cmÅ‚";
 		System.out.println(vlm);
 		// Volume formula calculator
 		
